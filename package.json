@@ -1,0 +1,26 @@
+{
+  "name": "socket-io-server",
+  "version": "1.0.0",
+  "description": "Is a simple forecast web site, that was made with Socket.io, React and the powerful monster Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "React",
+    "Socket.io",
+    "JavaScript"
+  ],
+  "author": "Igor Franca",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "socket-io": "^1.0.0",
+    "socket.io": "^2.0.3"
+  }
+}
